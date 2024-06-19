@@ -2,7 +2,6 @@
 
 This project is a simple React application that fetches and displays a list of "monsters" (users) from an API. It includes a search box to filter the monsters by name and another search box to set a custom title.
 
-![Project Logo](path/to/logo.png)
 
 ## Table of Contents
 
@@ -13,10 +12,6 @@ This project is a simple React application that fetches and displays a list of "
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## About the Project
 
@@ -43,3 +38,16 @@ You need to have Node.js and npm installed on your local machine. You can downlo
 1. Clone the repo
    ```sh
    git clone https://github.com/Ramouza/Monster.git
+2. Navigate to the project directory
+   ```sh
+   cd monsters-rolodex
+3. Install NPM packages
+   ```sh
+   npm install
+
+### Usage
+
+   To start the development server, run:
+   ```sh
+   npm start
+   This will run the app in the development mode. Open http://localhost:3000 to view it in the browser.
