@@ -50,4 +50,5 @@ You need to have Node.js and npm installed on your local machine. You can downlo
    To start the development server, run:
    ```sh
    npm start
+
    This will run the app in the development mode. Open http://localhost:3000 to view it in the browser.
